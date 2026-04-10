@@ -13,7 +13,7 @@ This approach enables real-time log collection, improves system monitoring, and 
 2. Riya Harugop - PES2UG24AM136
 3. Rhea Nair - PES2UG24AM133
 ## GitHub Link
-https://github.com/nidhimallikarjuna/log-aggregation
+https://github.com/riyaharugop/Log-Aggregation
 ## How to Run
 
 1. Run server:
